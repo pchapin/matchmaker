@@ -1,2 +1,5 @@
-# matchmaker
-A file synchronization utility
+
+MatchMaker
+==========
+
+A folder synchronization tool.
